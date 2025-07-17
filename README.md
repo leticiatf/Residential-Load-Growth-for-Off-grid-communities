@@ -1,1 +1,1 @@
-# Residential-Load-Growth-for-Off-Grid-Communities-Faza-Island-Kenya
+# Data appliance ownership and usage Faza MG Kenya
